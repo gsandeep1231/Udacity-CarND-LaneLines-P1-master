@@ -1,0 +1,6 @@
+#!/bin/bash
+
+#conda create --name=conda3 python=3 anaconda
+source activate conda3
+cd ..
+jupyter notebook
